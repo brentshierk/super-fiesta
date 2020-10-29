@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+}
+
+.first{
+background-image: url(images/computer-4795762_1920.jpg);
+background-size: cover;
+height: 11rem;
+}
+.second{
+    background-image: url(images/pen-4337521_1920.jpg);
+    background-size: cover;
+    height: 11rem;
+}
+
+.third{
+    background-image: url(images/fiber-4814456_1920.jpg);
+    background-size: cover;
+    height: 11rem;
+}
